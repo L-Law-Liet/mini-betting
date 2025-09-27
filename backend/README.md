@@ -23,6 +23,7 @@ cd backend
 cp .env.example .env
 cd ../frontend
 cp .env.example .env
+cd ..
 ```
 ### 2.1. Установить зависимости
 ```bash
